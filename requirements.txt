@@ -3,3 +3,5 @@ langchain-google-genai
 llama-index
 langchain-ollama
 langchain-mistralai
+streamlit
+langchain-community
