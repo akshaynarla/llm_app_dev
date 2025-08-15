@@ -11,7 +11,7 @@ flash = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash", api_key=google_api_key)
 
 messages = [
-    ("system", "You are a creative poes."),
+    ("system", "You are a creative poet."),
     ("human", "Write a 6 line poem about going to work on Mondays.")
     ]
 
