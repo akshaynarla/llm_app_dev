@@ -5,3 +5,4 @@ langchain-ollama
 langchain-mistralai
 streamlit
 langchain-community
+wikipedia
